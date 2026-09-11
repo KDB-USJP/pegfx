@@ -1,0 +1,146 @@
+{
+  "title": "Animated Fire Loop 32x32",
+  "dimensions": {
+    "columns": 32,
+    "rows": 32
+  },
+  "activeTheme": "retro_pegs",
+  "fps": 6,
+  "frames": [
+    {
+      "id": "f_1",
+      "layers": [
+        {
+          "id": "l_wood",
+          "name": "Campfire Logs",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": true,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "28,10": "#8E44C9", "28,11": "#8E44C9", "28,12": "#8E44C9", "28,13": "#8E44C9", "28,14": "#8E44C9", "28,15": "#8E44C9", "28,16": "#8E44C9", "28,17": "#8E44C9", "28,18": "#8E44C9", "28,19": "#8E44C9", "28,20": "#8E44C9", "28,21": "#8E44C9"
+          }
+        },
+        {
+          "id": "l_flame",
+          "name": "Flames",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": false,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "27,14": "#E8283C", "27,15": "#E8283C", "27,16": "#E8283C", "27,17": "#E8283C",
+            "26,14": "#FF8C1A", "26,15": "#FFE135", "26,16": "#FFE135", "26,17": "#FF8C1A",
+            "25,15": "#FFE135", "25,16": "#FFE135",
+            "24,15": "#FF8C1A", "24,16": "#FF8C1A",
+            "23,15": "#E8283C"
+          }
+        }
+      ],
+      "activeLayerIndex": 1
+    },
+    {
+      "id": "f_2",
+      "layers": [
+        {
+          "id": "l_wood",
+          "name": "Campfire Logs",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": true,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "28,10": "#8E44C9", "28,11": "#8E44C9", "28,12": "#8E44C9", "28,13": "#8E44C9", "28,14": "#8E44C9", "28,15": "#8E44C9", "28,16": "#8E44C9", "28,17": "#8E44C9", "28,18": "#8E44C9", "28,19": "#8E44C9", "28,20": "#8E44C9", "28,21": "#8E44C9"
+          }
+        },
+        {
+          "id": "l_flame",
+          "name": "Flames",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": false,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "27,13": "#E8283C", "27,14": "#E8283C", "27,15": "#E8283C", "27,16": "#E8283C", "27,17": "#E8283C", "27,18": "#E8283C",
+            "26,14": "#FF8C1A", "26,15": "#FF8C1A", "26,16": "#FFE135", "26,17": "#FF8C1A",
+            "25,14": "#FF8C1A", "25,15": "#FFE135", "25,16": "#FFE135",
+            "24,15": "#FFE135", "24,16": "#FF8C1A",
+            "23,16": "#FF8C1A",
+            "22,16": "#E8283C"
+          }
+        }
+      ],
+      "activeLayerIndex": 1
+    },
+    {
+      "id": "f_3",
+      "layers": [
+        {
+          "id": "l_wood",
+          "name": "Campfire Logs",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": true,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "28,10": "#8E44C9", "28,11": "#8E44C9", "28,12": "#8E44C9", "28,13": "#8E44C9", "28,14": "#8E44C9", "28,15": "#8E44C9", "28,16": "#8E44C9", "28,17": "#8E44C9", "28,18": "#8E44C9", "28,19": "#8E44C9", "28,20": "#8E44C9", "28,21": "#8E44C9"
+          }
+        },
+        {
+          "id": "l_flame",
+          "name": "Flames",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": false,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "27,14": "#E8283C", "27,15": "#E8283C", "27,16": "#E8283C", "27,17": "#E8283C",
+            "26,14": "#FF8C1A", "26,15": "#FFE135", "26,16": "#FF8C1A", "26,17": "#FF8C1A",
+            "25,15": "#FFE135", "25,16": "#FFE135",
+            "24,14": "#FF8C1A", "24,15": "#FF8C1A",
+            "23,14": "#E8283C",
+            "21,15": "#FF8C1A"
+          }
+        }
+      ],
+      "activeLayerIndex": 1
+    }
+  ],
+  "savedStamps": []
+}

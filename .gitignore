@@ -1,0 +1,19 @@
+# PegFX Studio — Public Distribution Repository
+# All internal source code, development configs, and secrets are strictly excluded.
+
+# Ignore Everything by Default
+*
+
+# Whitelist Customer Documentation & Logo
+!README.md
+!INSTALLERS.md
+!pegfx-logo.svg
+!.gitignore
+
+# Whitelist Starter Pack Samples & Firmware
+!starter_pack/
+!starter_pack/**
+
+# Whitelist Installers
+!installers/
+!installers/**

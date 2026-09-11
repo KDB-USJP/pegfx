@@ -1,0 +1,67 @@
+{
+  "title": "Retro Arcade 64x32",
+  "dimensions": {
+    "columns": 64,
+    "rows": 32
+  },
+  "activeTheme": "arcade",
+  "fps": 8,
+  "frames": [
+    {
+      "id": "f_1",
+      "layers": [
+        {
+          "id": "l_bg",
+          "name": "Border Frame",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": false,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "0,0": "#FF0000", "0,1": "#FF0000", "0,2": "#FF0000", "0,61": "#FF0000", "0,62": "#FF0000", "0,63": "#FF0000",
+            "31,0": "#FF0000", "31,1": "#FF0000", "31,2": "#FF0000", "31,61": "#FF0000", "31,62": "#FF0000", "31,63": "#FF0000"
+          }
+        },
+        {
+          "id": "l_text",
+          "name": "Arcade Title",
+          "type": "standard",
+          "groupId": null,
+          "visible": true,
+          "opacity": 100,
+          "isLocked": false,
+          "isSolo": false,
+          "xOffset": 0,
+          "yOffset": 0,
+          "blendMode": "replace",
+          "wrapMode": "continuous",
+          "gridColors": {
+            "12,20": "#FFFF00", "13,20": "#FFFF00", "14,20": "#FFFF00", "15,20": "#FFFF00", "16,20": "#FFFF00",
+            "12,21": "#FFFF00", "14,21": "#FFFF00",
+            "12,22": "#FFFF00", "13,22": "#FFFF00", "14,22": "#FFFF00", "15,22": "#FFFF00", "16,22": "#FFFF00",
+            "12,25": "#00FFFF", "13,25": "#00FFFF", "14,25": "#00FFFF", "15,25": "#00FFFF", "16,25": "#00FFFF",
+            "12,26": "#00FFFF", "14,26": "#00FFFF",
+            "12,27": "#00FFFF", "13,27": "#00FFFF", "15,27": "#00FFFF", "16,27": "#00FFFF",
+            "12,30": "#FF00FF", "13,30": "#FF00FF", "14,30": "#FF00FF", "15,30": "#FF00FF", "16,30": "#FF00FF",
+            "12,31": "#FF00FF", "16,31": "#FF00FF",
+            "12,32": "#FF00FF", "16,32": "#FF00FF",
+            "12,35": "#00FF00", "13,35": "#00FF00", "14,35": "#00FF00", "15,35": "#00FF00", "16,35": "#00FF00",
+            "12,36": "#00FF00", "14,36": "#00FF00",
+            "12,37": "#00FF00", "13,37": "#00FF00", "14,37": "#00FF00", "15,37": "#00FF00", "16,37": "#00FF00",
+            "12,40": "#FF8800", "13,40": "#FF8800", "14,40": "#FF8800", "15,40": "#FF8800", "16,40": "#FF8800",
+            "12,41": "#FF8800", "16,41": "#FF8800",
+            "12,42": "#FF8800", "13,42": "#FF8800", "14,42": "#FF8800", "15,42": "#FF8800", "16,42": "#FF8800"
+          }
+        }
+      ],
+      "activeLayerIndex": 1
+    }
+  ],
+  "savedStamps": []
+}
